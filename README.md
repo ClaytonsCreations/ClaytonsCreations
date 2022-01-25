@@ -14,10 +14,9 @@
 <a href="https://www.linkedin.com/in/markthomasclayton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:claytonscreationsus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br><br>
+<br>
 ----
-<br/>
-<br/>
+<br>
 
 **A Little About Myself:**
 
@@ -26,11 +25,9 @@
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me: ClaytonsCreationsUS@gmail.com
 - ⚡ Fun fact: I enjoy creating things on my wood lathe and 3D printer
-- 📝[Portfolio](https://claytonscreations.github.io/)
-
+- 📝[My Portfolio](https://claytonscreations.github.io/)
 
 **Languages and Tools:**
-
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
