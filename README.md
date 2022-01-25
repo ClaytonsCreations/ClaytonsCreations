@@ -36,4 +36,4 @@
 ![Mark Clayton's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonsCreations&show_icons=true&hide_border=true)
 
 
-<link align="right" alt="stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonsCreations" />
+![Mark Clayton's Most Used Code](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonsCreations)
