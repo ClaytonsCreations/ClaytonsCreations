@@ -7,7 +7,7 @@
 <br/>
 Thanks for Visiting
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=claytonscreations.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=claytonscreations.visitor-badge&left_color=red&right_color=green) 
 
 <br/>
 <br/>
@@ -32,8 +32,6 @@ Thanks for Visiting
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Mark Clayton's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonsCreations&show_icons=true&hide_border=true)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaytonsCreations&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Mark Clayton's Most Used Code](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonsCreations)
 
