@@ -3,11 +3,8 @@
 
 
 ### Hello World 👋 I'm [Mark Clayton](https://claytonscreations.github.io/)
-
+[![Visits Badge](https://badges.pufler.dev/visits/claytonscreations/claytonscreations)]
 <br/>
-Thanks for Visiting
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=claytonscreations.visitor-badge&left_color=red&right_color=green) 
 
 <br/>
 <br/>
@@ -38,6 +35,4 @@ Thanks for Visiting
 
 Slack https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 
-<a href="https://www.linkedin.com/in/markthomasclayton/">
-<img align="left" alt="Marks LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/markthomasclayton/)
