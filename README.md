@@ -3,7 +3,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=claytonscreations&&style=flat-square" align="center" />
+</div>  
+  
+  
 ### <div align="center">I am Mark Clayton, an Advisor with 15+ years of 👷‍♂️ utility experience. Expanding my knowledge into the world of data analytics and visualizations. </div>  
   
 
@@ -25,7 +29,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skills
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -92,10 +96,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=claytonscreations&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
