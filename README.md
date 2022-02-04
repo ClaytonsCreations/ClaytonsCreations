@@ -80,7 +80,7 @@
 
 ## Github Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytonscreations&show_icons=true&locale=en&layout=compact" alt="claytonscreations" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytonscreations&show_icons=true&locale=en&layout=compact" alt="claytonscreations" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=claytonscreations&show_icons=true&locale=en" alt="claytonscreations" /></p>
 
