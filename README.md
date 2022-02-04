@@ -3,6 +3,8 @@
 </div>  
 
 ### <div align="center">I am Mark Clayton, an Advisor with 15+ years of 👷‍♂️ utility experience. Expanding my knowledge into the world of data analytics and visualizations. </div>  
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claytonscreations" alt="claytonscreations" /></a> </p>
   
 <table><tr><td valign="top" width="50%">
   
@@ -46,7 +48,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="75" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="75" /> 
+
 </div>   
 
 <br/>  
@@ -63,7 +68,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/story/claytonscreations" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:claytonscreationsus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:claytonscreationsus@gmail.com"><img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/gmail_google_icon.png" alt="GitLab" height="75"></a>
 </div>  
   
 
@@ -72,7 +77,8 @@
 
 ## Github Stats  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=claytonscreations&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
-  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytonscreations&hide_border=true&layout=compact" align="left" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytonscreations&show_icons=true&locale=en&layout=compact" alt="claytonscreations" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=claytonscreations&show_icons=true&locale=en" alt="claytonscreations" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claytonscreations&" alt="claytonscreations" /></p>
