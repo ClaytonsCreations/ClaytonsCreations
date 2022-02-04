@@ -59,7 +59,7 @@
 
 ## Connect with me  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <div align="center">
-<a href="https://github.com/https://github.com/ClaytonsCreations" target="_blank">
+<a href="https://github.com/ClaytonsCreations" target="_blank">
 <img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/github_icon.svg" alt="github" height="65" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/markthomasclayton/" target="_blank">
