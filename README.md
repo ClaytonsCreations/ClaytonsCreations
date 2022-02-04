@@ -62,10 +62,10 @@
 <a href="https://github.com/ClaytonsCreations" target="_blank">
 <img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/github_icon.svg" alt="github" height="65" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/markthomasclayton/" target="_blank">
+<a href="https://www.linkedin.com/in/markthomasclayton/" target="_blank">
 <img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/linkedin_social_icon.svg" alt="linkedin" height="65" style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/story/claytonscreations" target="_blank">
+<a href="https://stackoverflow.com/story/claytonscreations" target="_blank">
 <img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/stachoverflow_stack_icon.svg" alt="stackoverflow" height="65" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:claytonscreationsus@gmail.com"><img src="https://github.com/ClaytonsCreations/ClaytonsCreations/blob/main/github_icons/gmail_google_icon.png" alt="gmail" height="65" style="margin-bottom: 5px;" ></a>
