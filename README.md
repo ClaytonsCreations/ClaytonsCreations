@@ -14,7 +14,7 @@
 📚 I’m currently working on completing a Data Analytics and Visualizations Certificate at UCI  
   
 
-🎓 I’m currently learning 'Machine Learning'  
+🎓 I’m currently learning 'Big Data'  
   
 
 🛠️ Fun Fact: I enjoy creating things on my wood lathe and 3D printer  
