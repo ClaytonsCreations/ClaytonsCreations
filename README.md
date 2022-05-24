@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=claytonscreations&&style=flat-square" align="center" />
 </div>  
 
-### <div align="center">I am Mark Clayton, Project Manager (Advisor) with extensive 👷‍♂️ utility experience. I'm self-motivated, organized, and detail oriented with exceptional presentation skills along with the ability to communicate and collaborate across diverse groups. Currently expanding my knowledge into the world of data analytics and visualizations. </div>  
+### <div align="center">I am Mark Clayton, Senior Advisor with extensive 👷‍♂️ utility experience. I'm self-motivated, organized, and detail oriented with exceptional presentation skills along with the ability to communicate and collaborate across diverse groups. Currently expanding my knowledge into the world of data analytics and visualizations. </div>  
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claytonscreations" alt="claytonscreations" /></a> </p>
   
@@ -11,10 +11,10 @@
 👬Pronouns: He/Him  
 
 
-📚 I’m currently working on completing a Data Analytics and Visualizations Certificate at UCI  
+📚 I’m currently working on Data Software implementation  
   
 
-🎓 I’m currently learning 'Big Data'  
+🎓 I’m currently learning 'a new job'  
   
 
 🛠️ Fun Fact: I enjoy creating things on my wood lathe and 3D printer  
